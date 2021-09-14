@@ -1,3 +1,7 @@
 Hi Everyone. Fixewd bug1.
 
+
 Bug 3 Clered.
+
+With Conflict Change fix bug 2
+
