@@ -3,9 +3,12 @@ Hi Everyone. Fixewd bug1.
 
 Bug 3 Clered.
 
-With Conflict Change fix bug 2
+Change - 1 With Conflict Change fix bug 2
 
-New Work.
+Change - 2 New Work.
 
-Upodate in Github itself ie change by teamsmate on WI5 to check pull.
+Change - 3 Upodate in Github itself ie change by teamsmate on WI5 to check pull.
+
+Change - 4 Cnange on remote master for rebase
+
 
