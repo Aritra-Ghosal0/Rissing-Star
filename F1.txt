@@ -1,1 +1,3 @@
 Hi Everyone. Fixewd bug1.
+
+With Conflict Change fix bug 2
