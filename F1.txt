@@ -5,5 +5,7 @@ Bug 3 Clered.
 
 With Conflict Change fix bug 2
 
-New Work
+New Work.
+
+Upodate in Github itself ie change by teamsmate on WI5 to check pull.
 
